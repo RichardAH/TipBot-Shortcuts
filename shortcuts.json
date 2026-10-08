@@ -68,6 +68,12 @@
       "issuer": "rLoANdfWMtXnv2xYKsTDDkrEDyH71bMUfw",
       "from": "2026-10-09T00:00:00Z",
       "name": "One Xahau EVR lending receipt"
+    },
+    {
+      "ticker": "VLP",
+      "issuer": "rVLPNDwoZLFbaQut1Eoo5VcGjG1WDnidG",
+      "from": "2026-10-09T00:00:00Z",
+      "name": "One Xahau Vortex pool LP"
     }
   ]
 }
