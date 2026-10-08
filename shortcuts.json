@@ -20,6 +20,12 @@
       "ticker": "EUR",
       "issuer": "rhub8VRN55s94qWKDv6jmDy1pUykJzF3wq",
       "name": "Euro (Gatehub)"
+    },
+    {
+      "ticker": "FUEL",
+      "issuer": "rrpkb73x9t2P3xNSnZJ1PjjbXUZATL9iva",
+      "from": "2026-10-10T00:00:00Z",
+      "name": "Fuel (Galaxy Drops)"
     }
   ]
 }
