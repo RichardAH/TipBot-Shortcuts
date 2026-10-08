@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "shortcuts": [
+    {
+      "ticker": "EVR",
+      "issuer": "rEvernodee8dJLaFsujS6q1EiXvZYmHXr8",
+      "name": "Evernode"
+    }
+  ]
+}
