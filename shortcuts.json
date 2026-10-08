@@ -20,6 +20,60 @@
       "ticker": "EUR",
       "issuer": "rhub8VRN55s94qWKDv6jmDy1pUykJzF3wq",
       "name": "Euro (Gatehub)"
+    },
+    {
+      "ticker": "XXX",
+      "issuer": "rxxxx9gmp1DSJ8bE4Gya48VtRdPPz7mHF",
+      "from": "2026-10-09T00:00:00Z",
+      "name": "Protocol X (One Xahau)"
+    },
+    {
+      "ticker": "RVN",
+      "issuer": "rodinGM9xiKq7rDDnLPyieREkqGJ6zKyb",
+      "from": "2026-10-09T00:00:00Z",
+      "name": "Raven (One Xahau)"
+    },
+    {
+      "ticker": "XLP",
+      "issuer": "rLPXFdgvriFHXt7WYybqJSu49Ff5DRzq1u",
+      "from": "2026-10-09T00:00:00Z",
+      "name": "One Xahau XAH/XXX pool LP"
+    },
+    {
+      "ticker": "ELP",
+      "issuer": "rAMMznwkgL1BB6o4eYWufMAdy6t1LPgnf",
+      "from": "2026-10-09T00:00:00Z",
+      "name": "One Xahau XAH/EVR pool LP"
+    },
+    {
+      "ticker": "RLP",
+      "issuer": "rRLPRi86xXjq8QmuvcpUfN6dg3etmCNHT",
+      "from": "2026-10-09T00:00:00Z",
+      "name": "One Xahau XAH/RVN pool LP"
+    },
+    {
+      "ticker": "PLP",
+      "issuer": "rPErPbJuVJMTBGH2V4p6dbKnfmasU52KTY",
+      "from": "2026-10-09T00:00:00Z",
+      "name": "One Xahau perps LP"
+    },
+    {
+      "ticker": "LXH",
+      "issuer": "rLoAxwmnrSnTtH58TJYi12coKUWePcENLU",
+      "from": "2026-10-09T00:00:00Z",
+      "name": "One Xahau XAH lending receipt"
+    },
+    {
+      "ticker": "LEV",
+      "issuer": "rLoANdfWMtXnv2xYKsTDDkrEDyH71bMUfw",
+      "from": "2026-10-09T00:00:00Z",
+      "name": "One Xahau EVR lending receipt"
+    },
+    {
+      "ticker": "VLP",
+      "issuer": "rVLPNDwoZLFbaQut1Eoo5VcGjG1WDnidG",
+      "from": "2026-10-09T00:00:00Z",
+      "name": "One Xahau Vortex pool LP"
     }
   ]
 }
