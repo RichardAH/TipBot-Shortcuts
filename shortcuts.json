@@ -1,10 +1,25 @@
 {
-  "version": 1,
+  "version": 2,
   "shortcuts": [
     {
       "ticker": "EVR",
       "issuer": "rEvernodee8dJLaFsujS6q1EiXvZYmHXr8",
       "name": "Evernode"
+    },
+    {
+      "ticker": "XRP",
+      "issuer": "rhub8VRN55s94qWKDv6jmDy1pUykJzF3wq",
+      "name": "XRP"
+    },
+    {
+      "ticker": "USD",
+      "issuer": "rhub8VRN55s94qWKDv6jmDy1pUykJzF3wq",
+      "name": "USD (Gatehub)"
+    },
+    {
+      "ticker": "EUR",
+      "issuer": "rhub8VRN55s94qWKDv6jmDy1pUykJzF3wq",
+      "name": "Euro (Gatehub)"
     }
   ]
 }
