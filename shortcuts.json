@@ -20,6 +20,12 @@
       "ticker": "EUR",
       "issuer": "rhub8VRN55s94qWKDv6jmDy1pUykJzF3wq",
       "name": "Euro (Gatehub)"
+    },
+    {
+      "ticker": "EURQ",
+      "issuer": "rDk1xiArDMjDqnrR2yWypwQAKg4mKnQYvs",
+      "name": "EURQ (Quantoz)",
+      "from": "2026-10-13T12:00:00Z"
     }
   ]
 }
