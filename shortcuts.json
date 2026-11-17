@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 1,
   "shortcuts": [
     {
       "ticker": "EVR",
@@ -74,6 +74,12 @@
       "issuer": "rVLPNDwoZLFbaQut1Eoo5VcGjG1WDnidG",
       "from": "2026-10-09T00:00:00Z",
       "name": "One Xahau Vortex pool LP"
+    },
+    {
+      "ticker": "EURQ",
+      "issuer": "rDk1xiArDMjDqnrR2yWypwQAKg4mKnQYvs",
+      "name": "EURQ (Quantoz)",
+      "from": "2026-10-13T12:00:00Z"
     }
   ]
 }
