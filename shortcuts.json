@@ -80,6 +80,12 @@
       "issuer": "rDk1xiArDMjDqnrR2yWypwQAKg4mKnQYvs",
       "name": "EURQ (Quantoz)",
       "from": "2026-10-13T12:00:00Z"
+    },
+    {
+      "ticker": "XMERCH",
+      "issuer": "rLRVSaK575YXwwnkC5QSTLK7E1r1ps5TCs",
+      "from": "2026-11-23T19:00:00Z",
+      "name": "xMerch"
     }
   ]
 }
